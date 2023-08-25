@@ -16,6 +16,8 @@ This is the final project for the iOS App Capstone, part of the Meta iOS Develop
 
 The design of the Home screen is based on the following wireframe:
 
+
+
 <img width="500" alt="Wireframe" src="https://user-images.githubusercontent.com/93353925/227747759-133a6613-06cb-4797-95f1-37a668c8be67.png">
 
 ## Getting Started
